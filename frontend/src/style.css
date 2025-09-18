@@ -1,0 +1,4 @@
+/* frontend/src/style.css */
+* { box-sizing: border-box; }
+body { margin: 0; background: #7c8996; }
+#app { max-width: 1100px; margin: 0 auto; }
